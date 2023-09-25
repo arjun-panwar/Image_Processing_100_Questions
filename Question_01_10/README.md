@@ -18,6 +18,8 @@ red = img[:, :, 2].copy()
 
 answer >> [1_Channel_Swapping.py](./1_Channel_Swapping.py)
 
+#### Resources to read
+[**How does the computer memory store media files?**](https://www.quora.com/How-does-the-computer-memory-store-media-files/answer/Jabali-Searcot)<br>
 ## Q.2: Grayscale
 
 ### Detail: Make the image grayscale. 
@@ -34,6 +36,9 @@ $$
 
 Answer >> [2_Grayscale.py](./2_Grayscale.py)
 
+#### Resources to read
+[**Why to use Grayscale Conversion during Image Processing?**](https://www.isahit.com/blog/why-to-use-grayscale-conversion-during-image-processing)<br>
+
 ## Q.3: Binarization 
 
 Binarize the image. Binarization is a method of expressing images as binary black and white. Here, the threshold is set to 128 in gray scale and binarized by the following equation.
@@ -47,6 +52,9 @@ y = 0 if y < 128 else 255
 |![](imori.jpg)|![](answer_3.jpg)|
 
 Answer >> [3_Binarization.py](./3_Binarization.py)
+
+#### Resources to read
+[**Why to use Grayscale Conversion during Image Processing?**](https://www.isahit.com/blog/why-to-use-grayscale-conversion-during-image-processing)<br>
 
 ## Q.4: Binarization of Otsu
 
@@ -80,6 +88,9 @@ argmax_{t} X = argmax_{t} Sb^2
 
 Answer >> [4_Binarization_of_Otsu.py](./4_Binarization_of_Otsu.py)
 
+#### Resources to read
+[**Medium: Otsu thresholding — image binarization**](https://hbyacademic.medium.com/otsu-thresholding-4337710dc519)<br>
+[**Medium: Otsu Thresholding — Mathematical Secrets behind Image Binarization**](https://hbyacademic.medium.com/mathematical-secrets-behind-image-binarization-otsu-thresholding-25edf8d7cb60))<br>
 
 ## Q.5: HSV Conversion
 
