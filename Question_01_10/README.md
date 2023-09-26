@@ -54,7 +54,7 @@ y = 0 if y < 128 else 255
 Answer >> [3_Binarization.py](./3_Binarization.py)
 
 #### Resources to read
-[**Why to use Grayscale Conversion during Image Processing?**](https://www.isahit.com/blog/why-to-use-grayscale-conversion-during-image-processing)<br>
+[**Analytics Vidhya: Binarization of Images**](https://www.analyticsvidhya.com/blog/2021/08/image-processing-in-python-the-computer-vision-techniques/#:~:text=Binarization%20of%20Images&text=Binarization%20is%20of%20the%20image,of%20a%20process%20called%20thresholding.)<br>
 
 ## Q.4: Binarization of Otsu
 
@@ -145,6 +145,8 @@ In this case, invert the hue H (add 180) and display it as RGB and display the i
 
 Answer >> [5_HSV_Conversion.py](./5_HSV_Conversion.py)
 
+#### Resources to read
+[**Why do we use the HSV colour space so often in vision and image processing?**](https://dsp.stackexchange.com/questions/2687/why-do-we-use-the-hsv-colour-space-so-often-in-vision-and-image-processing)<br>
 ## Q.6: Discretization of Color
 
 ### Detail:
@@ -163,6 +165,8 @@ val = {  32  (0 <= val < 63)
 
 Answer >> [6_Discretization_of_Color.py](./6_Discretization_of_Color.py)
 
+#### Resources to read
+[**Wikipedia: Color quantization**](https://en.wikipedia.org/wiki/Color_quantization9)<br>
 ## Q.7: Average Pooling
 
 In this case, the image is divided into grids (divide it into certain fixed-length regions), and the value in the region is filled with the average value in the region (cell). The operation of dividing the grid in this way and **obtaining** the representative value in that area is called **pooling** . These pooling operations play an important role in **CNN (Convolutional Neural Network)** .
