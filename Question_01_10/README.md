@@ -184,7 +184,10 @@ Here imori.jpg is 128x128, so divide the grid into 8x8 and average pool.
 |![](imori.jpg)|![](answer_7.jpg)|
 
 Answer >> [7_Average_Pooling.py](./7_Average_Pooling.py)
-![](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-24_at_1.51.40_PM.png)
+
+<br>
+<img src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-24_at_1.51.40_PM.png" width="200" height="200" />
+
 ## Q.8: Max Pooling
 
 Pool here with the maximum value instead of the average value.
