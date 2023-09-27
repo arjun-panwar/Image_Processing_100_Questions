@@ -184,6 +184,7 @@ Here imori.jpg is 128x128, so divide the grid into 8x8 and average pool.
 |![](imori.jpg)|![](answer_7.jpg)|
 
 Answer >> [7_Average_Pooling.py](./7_Average_Pooling.py)
+![](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-24_at_1.51.40_PM.png)
 ## Q.8: Max Pooling
 
 Pool here with the maximum value instead of the average value.
@@ -194,6 +195,8 @@ Pool here with the maximum value instead of the average value.
 
 Answer >> [8_Max_Pooling.py](./8_Max_Pooling.py)
 
+#### Resources to read
+[**CNN | Introduction to Pooling Layer**](https://www.geeksforgeeks.org/cnn-introduction-to-pooling-layer/)<br>
 ## Q.9: Gaussian Filter
 
 Implement the Gaussian filter (3 × 3, standard deviation 1.3) and remove the noise of *imori_noise.jpg* .
