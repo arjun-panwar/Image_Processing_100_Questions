@@ -223,7 +223,15 @@ K =  1/16 [ 2 4 2 ]
 |Input (imori_noise.jpg)|Output (answer_9.jpg)|
 |:---:|:---:|
 |![](imori_noise.jpg)|![](answer_9.jpg)|
+#### Resources to read
+[**Image Filters: Gaussian Blur**](https://aryamansharda.medium.com/image-filters-gaussian-blur-eb36db6781b1)<br>
 
+<iframe width="420" height="315"
+src="https://youtu.be/-LD9MxBUFQo?si=DW7v2y0biDSQNvH3">
+</iframe>
+<iframe width="420" height="315"
+src="https://youtu.be/C_zFhWdM4ic?si=Oz2O0fDXnQhgkaP1">
+</iframe>
 Answer >> [9_Gaussian_Filter.py](./9_Gaussian_Filter.py)
 
 ## Q.10: Median Filter
@@ -240,3 +248,8 @@ This is a filter that outputs a median value (median value) within the 3 × 3 re
 
 Answer >> [10_Median_Filter.py](./10_Median_Filter.py)
 
+#### Resources to read
+
+<iframe width="420" height="315"
+src="https://youtu.be/7FP7ndMEfsc?si=XnMUri_E3psRjRgH">
+</iframe>
